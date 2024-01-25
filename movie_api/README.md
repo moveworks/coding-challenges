@@ -35,9 +35,7 @@ curl --location --globoff '{{base_url}}/api/movie-recommendations?genre=Action&l
 
 ### Implementation Instructions
 
-:::info
 👉 Ensure you handle possible errors and exceptions gracefully, such as handling invalid genre inputs, API errors, or empty responses.
-:::
 
 1. Fetch a list of all popular movies using an API call
 2. Filter the movies based on the genre (determined by the `genre` parameter – case insensitive)
