@@ -8,7 +8,7 @@ This readiness assessment can be used to help you determine if your developers h
 
 ### Objective
 
-You are tasked with creating a Movie Recommendation API using [two publicly available REST APIs](https://developer.moveworks.com/creator-studio/demo-functions/). The new recommendation API will accept a movie genre that a user cares about and come up with possible movies to watch.
+You are tasked with creating a Movie Recommendation API using [two publicly available REST APIs](https://developer.moveworks.com/creator-studio/developer-tools/demo-functions/). The new recommendation API will accept a movie genre that a user cares about and come up with possible movies to watch.
 
 ### Success Criteria
 
@@ -87,6 +87,6 @@ curl --location --globoff '{{base_url}}/api/movie-recommendations?genre=Action&l
 
 ## Reference Materials
 
-You can use the APIs hosted with our [Demo Functions](https://developer.moveworks.com/creator-studio/demo-functions/) to build your use case.
+You can use the APIs hosted with our [Demo Functions](https://developer.moveworks.com/creator-studio/developer-tools/demo-functions/) to build your use case.
 
 🎉 Good luck! Happy coding! 👩‍💻
