@@ -1,6 +1,6 @@
 # Movie API Coding Challenge
 
-This readiness assessment can be used to help you determine if your developers have the skills needed to build new capabilities with Creator Studio. **If they can complete this challenge comfortably, they will be able to successfully build most use cases in Agent Studio.**
+This readiness assessment can be used to help you determine if your developers have the skills needed to build new capabilities with Agent Studio. **If they can complete this challenge comfortably, they will be able to successfully build most use cases in Agent Studio.**
 
 *This exercise should take no more than 30 minutes to complete.*
 
